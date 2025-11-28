@@ -1,4 +1,4 @@
-# Minishell
+# Minishell 42
 
 A simple shell implementation in C that mimics basic functionality of bash.
 
